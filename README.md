@@ -5,7 +5,13 @@ Proyecto en WebGL para la materia de Gráficas Computacionales. El proyecto cons
 	* El mapa base con el que se usara como fondo de la escena. 
 	* Los movimientos tomados de un dataset externo que representen el desplazamiento. 
 
-Véase /urbmobpy/ZMM_Urbmov.ipynb para más detalle
+Véase /urbmobpy/ZMM_Urbmov.ipynb para más detalle.
+
+
+### Librerías usadas
+* [Pydeck](https://deckgl.readthedocs.io/en/latest/layer.html): bindings de deck.gl para python. 
+* [Pandas](https://pandas.pydata.org/)
+* [Jupyter widgets](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html)
 
 ### Preprocesamiento del dataset
 
